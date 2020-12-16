@@ -9,6 +9,10 @@ About user:
 - Target audience
 - What you intend viewers to do when they see the final product (call to action)
 
+TJL - This is an area for us to innovate.  Since we do not undertstand the user directly, we will need to ask more detailed questions about the target audience.  What gives them a sense of quality in products like this?  What helps them to trust something they are seeing?  What do they fear?  What do other items look like in this context and how can we stand out?  
+
+TJL - If this is a "change x about this starting piece" vs a try several options that should be made clear up front.  Something about the scope of the ask is important.
+
 About the final product:
 
 - What the final product should be (I.e., brochure, banner, etc.)
@@ -21,12 +25,16 @@ Other information:
 
 ## 2. Market Research
 
+TJL - You can also ask if they have specific competitors in the market they want you to use, or comparisons from other industries that have a similar feel that they are going for.  Otherwise, a set of questions might help them shape your direction.  Serious vs Fun.  Simple vs. Complex.  Bright vs Dark.  What feeling do they hope the audience experiences when interacting with the result? 
+
 After the initial information reviewing, I'll conduct market research. I'll show how the competitors in our industry do for your reference. Sometimes I'd like to see how the lead companies in our industry do. The purpose of doing this is for the next two steps: moodboarding and brainstorming. I'd like to get feedback about:
 
 - Examples of market research you like (and don't)
 - Why
 
 ## **3. Moodboarding**
+
+TJL - This is to refine the overall feel that was started above.  Some examples will help refine the direction to keep it focused.
 
 In this step, I would like to hear your idea first since you are the one who is really understanding our target audience. Otherwise, I'd provide my ideas for moodboarding based on market research. I would need to know your feedback about:
 
@@ -35,9 +43,13 @@ In this step, I would like to hear your idea first since you are the one who is 
 
 ## **4. Brainstorming**(not necessary)
 
+TJL - We can provide a menu of options here as well.  Examples of what needs to be brainstormed based on the type of task being requested.  A workflow or UI design is very different from a marketing piece which is different from a website.
+
 Upon this stage, you can let me know all the possibilities that you have ever been thinking in your mind regardless of the timeline, budget, platform, etc. We would focus on how to fulfill our goal and make users satisfied. 
 
 ## **5. Thumbnailing**(not necessary)
+
+TJL - This can also be helpful if you can do it quickly to confirm everyone is on the same page.  It is similar to a summary statement of "What I hearing you say is..."
 
 For most of the time, I'd skip this stage and jump to concept development unless I encountered a bottleneck.
 
@@ -54,6 +66,8 @@ For each concept, I'd show at least one visual exploration since most of the tim
 Sometimes, if you can not make a decision, maybe the problem is not about visual exploration. If this happened, I'd go back to moodboarding to make sure I'm on the right track.
 
 ## **9. Client Feedback**
+
+TJL - I think we can include more client feedback as we get started since we are all in one company.  Later we may back it off, but in general I think more feedback is better to make sure the project doesn't get off track and produce something unwanted.  
 
 Feedback would go back and forth among stakeholders during client feedback steps, and sometimes we have to change every decision we have made and restart. It's super normal to have this happened, so don't be hesitate to let me know if anything needs to be changed during this step.
 
