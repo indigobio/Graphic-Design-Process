@@ -10,7 +10,7 @@ There are several ways for me to understand the logic behind every function and 
 
 #### **UI Flow:**
 
-The UI flow is the process of the pages. You can use Miro, OmniGraffle, Balsamiq, or even a whiteboard to show the UI flow. The purpose of the UI flow is to understand the current discussed functions, decided pages, and the product's overall structure. So a UI flow doesn't need any formats of visual design. Here is an example of Bogan's UI flow for the TBS project:
+The UI flow is the process of the pages. You can use Miro, OmniGraffle, Balsamiq, or even a whiteboard to show the UI flow. The purpose of the UI flow is to understand the current discussed functions, decided pages, and the product's overall structure. So it's not necessary to contain the visual design in a UI flow. Here is an example of Bogan's UI flow for the TBS project:
 
 https://miro.com/app/board/o9J_ksuEcsU=/
 
