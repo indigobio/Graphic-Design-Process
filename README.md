@@ -16,7 +16,7 @@ https://miro.com/app/board/o9J_ksuEcsU=/
 
 #### **Work Flow(Flow Chart):**
 
-The workflow is the interactions of the pages. It focuses on all the possible actions and their sequences. An error message is a good example of why we should need a workflow. The main point of a workflow is how to take action when decisions are making. It would be helpful for me to prepare all the possible pages that need design. Here is an example of the Reagents page in the TBS project:
+The workflow is the interactions of the pages. It focuses on all the possible actions and their sequences. An error message is a good example of why we should need a workflow. The main point of a workflow is how to take action when decisions are making. It would be helpful for me to prepare all the possible pages that need design. Here is an example of the workflow for the Reagents page in the TBS project:
 
 https://www.figma.com/file/Oqaf0vxmetZ4m7jewZDRFi/Reagents-Add-Lot?node-id=15%3A0
 
