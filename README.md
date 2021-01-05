@@ -2,7 +2,7 @@
 
 ## **1. The Brief**
 
-**There are two main categories of graphic design: UI design and branding & marketing materials.** 
+There are two main categories of graphic design: UI design and branding & marketing materials.
 
 **UI design:**
 
