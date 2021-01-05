@@ -120,7 +120,7 @@ The final delivery would include the design system and UI documents.
 
 ### **Design System:**
 
-The final delivery, including the following assets. You can check the newest version of assets on the Indesign Design System Management:
+You can check the newest version of the design system, including the following assets on the Indesign Design System Management:
 
 https://tbsui.invisionapp.com/dsm/tbs/exent-design-library
 
@@ -148,11 +148,15 @@ The maximum number of fonts on a single page is three or four. Most of the time,
 
 ### **UI Document:**
 
-There are six main states on one page: Ideal State, Empty State, Maximum State, Error State, Partial State, and Loading State. After the ideal state is developed, I'll start working on the other five states.
+The UI document is the Figma file that I used for the UI design. Based on the needs od a project, I would also put the design system in the Figma.
 
-#### **Wireframe**
+https://www.figma.com/file/kNdNgzUKWOgAV2Pq1KwpkV/Exent-IQ?node-id=2136%3A4287
 
-A wireframe would include the instructions for all the functional elements, interactive effect, and six main states. Sometimes the wireframe would also include how to notify the user when unforeseen circumstances like network connection or GPS problem happens. 
+#### **Prototype**
+
+A prototype would include the instructions for all the functional elements, interactive effect, and six main states. Sometimes the wireframe would also include how to notify the user when unforeseen circumstances like network connection or GPS problem happens.
+
+There are six main states on one page: Ideal State, Empty State, Maximum State, Error State, Partial State, and Loading State. After the ideal state is developed, I'll start working on the other five states.  
 
 ## **13. Production**
 
