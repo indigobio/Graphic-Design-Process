@@ -152,7 +152,7 @@ The UI document is the Figma file that I used for the UI design. Based on the ne
 
 https://www.figma.com/file/kNdNgzUKWOgAV2Pq1KwpkV/Exent-IQ?node-id=2136%3A4287
 
-#### **Prototype**
+#### **Prototype:**
 
 A prototype would include the instructions for all the functional elements, interactive effect, and six main states. Sometimes the wireframe would also include how to notify the user when unforeseen circumstances like network connection or GPS problem happens.
 
