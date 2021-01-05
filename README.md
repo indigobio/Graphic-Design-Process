@@ -8,13 +8,13 @@ There are two main categories of graphic design: UI design and branding & market
 
 There are several ways for me to understand the logic behind every function and interaction for a product:
 
-#### **UI Flow:**
+### **UI Flow:**
 
 The UI flow is the process of the pages. You can use Miro, OmniGraffle, Balsamiq, or even a whiteboard to show the UI flow. The purpose of the UI flow is to understand the current discussed functions, decided pages, and the product's overall structure. So a UI flow doesn't need any formats of visual design. Here is an example of Bogan's UI flow for the TBS project:
 
 https://miro.com/app/board/o9J_ksuEcsU=/
 
-**Work Flow(Flow Chart):**
+#### **Work Flow(Flow Chart):**
 
 The workflow is the interactions of the pages. It focuses on all the possible actions and their sequences. An error message is a good example of why we should need a workflow. The main point of a workflow is how to take action when decisions are making. It would be helpful for me to prepare all the possible pages that need design. Here is an example of the Reagents page in the TBS project:
 
@@ -43,7 +43,7 @@ In addition to understanding the user, there are other questions I would like to
 - Deliverable expectations and scope of the design: ex: "change x about this starting piece" vs. a try several options.
 - Timeline expectations and milestones
 
-#### **Branding & Marketing materials:**
+### **Branding & Marketing materials:**
 
 At the beginning of the project, I'd like to know the following information:
 
@@ -118,7 +118,7 @@ I'd consider it's an approval when every stakeholder has no feedback and is happ
 
 The final delivery would include the design system and UI documents.
 
-#### **Design System:**
+### **Design System:**
 
 The final delivery, including the following assets. You can check the newest version of assets on the Indesign Design System Management:
 
@@ -126,31 +126,31 @@ https://tbsui.invisionapp.com/dsm/tbs/exent-design-library
 
 If any of the assets need to be modified, I will update Jira and Github's status. You can check the assets update log to make sure everything is on the same page. 
 
-**Colors**
+#### **Colors**
 
 You can check the color system, RGB, HEX, HSL, HSV, and even the SASS info. 
 
-**Typography**
+#### **Typography**
 
 The information here includes size, weight, style, and color. As well as where and how to use them.
 
-**Icons**
+#### **Icons**
 
 Export formats include PNG, JPG, and SVG. In Figma we can choose 0.5x, 0.75x, 1x, 1.5x, 2x, 3x, 4x, 512w, and 512h. 
 
-**Main Components**
+#### **Main Components**
 
 You can consider the main components as templates here or as a quick reference of the combination of elements. The final layout for a page is a combination of main components. 
 
-**Fonts**
+#### **Fonts**
 
 The maximum number of fonts on a single page is three or four. Most of the time, there are only one or two fonts designated in a single website. You can get the fonts family here. We may need to pay for the fonts if they are not free for download. 
 
-#### **UI Document:**
+### **UI Document:**
 
 There are six main states on one page: Ideal State, Empty State, Maximum State, Error State, Partial State, and Loading State. After the ideal state is developed, I'll start working on the other five states.
 
-**Wireframe**
+#### **Wireframe**
 
 A wireframe would include the instructions for all the functional elements, interactive effect, and six main states. Sometimes the wireframe would also include how to notify the user when unforeseen circumstances like network connection or GPS problem happens. 
 
