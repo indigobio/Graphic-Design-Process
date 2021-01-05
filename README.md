@@ -148,7 +148,7 @@ The maximum number of fonts on a single page is three or four. Most of the time,
 
 ### **UI Document:**
 
-The UI document is the Figma file that I used for the UI design. Based on the needs od a project, I would also put the design system in the Figma.
+The UI document is the Figma file that I used for the UI design. Based on the needs of a project, I would also put the design system in the Figma.
 
 https://www.figma.com/file/kNdNgzUKWOgAV2Pq1KwpkV/Exent-IQ?node-id=2136%3A4287
 
