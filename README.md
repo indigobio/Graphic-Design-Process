@@ -116,7 +116,7 @@ I'd consider it's an approval when every stakeholder has no feedback and is happ
 
 ## **12. Final Delivery**
 
-The final delivery would include the design system and UI documents.
+The final delivery would include the design system and UI document.
 
 ### **Design System:**
 
